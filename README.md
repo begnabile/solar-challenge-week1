@@ -1,6 +1,7 @@
-#  Solar Challenge - Week 1
+# Solar Challenge - Week 1
+# 🌞 Solar Challenge - Week 1
 
-##  Environment Setup
+## 🚀 Environment Setup
 
 ### 1. Clone the Repo
 ```bash
